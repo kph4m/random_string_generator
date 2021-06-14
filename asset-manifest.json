@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random_string_generator/static/css/main.26a2823a.chunk.css",
+    "main.js": "/random_string_generator/static/js/main.71c422b7.chunk.js",
+    "main.js.map": "/random_string_generator/static/js/main.71c422b7.chunk.js.map",
+    "runtime-main.js": "/random_string_generator/static/js/runtime-main.666d1ba3.js",
+    "runtime-main.js.map": "/random_string_generator/static/js/runtime-main.666d1ba3.js.map",
+    "static/js/2.e12eaff6.chunk.js": "/random_string_generator/static/js/2.e12eaff6.chunk.js",
+    "static/js/2.e12eaff6.chunk.js.map": "/random_string_generator/static/js/2.e12eaff6.chunk.js.map",
+    "static/js/3.c6121ea3.chunk.js": "/random_string_generator/static/js/3.c6121ea3.chunk.js",
+    "static/js/3.c6121ea3.chunk.js.map": "/random_string_generator/static/js/3.c6121ea3.chunk.js.map",
+    "index.html": "/random_string_generator/index.html",
+    "static/css/main.26a2823a.chunk.css.map": "/random_string_generator/static/css/main.26a2823a.chunk.css.map",
+    "static/js/2.e12eaff6.chunk.js.LICENSE.txt": "/random_string_generator/static/js/2.e12eaff6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666d1ba3.js",
+    "static/js/2.e12eaff6.chunk.js",
+    "static/css/main.26a2823a.chunk.css",
+    "static/js/main.71c422b7.chunk.js"
+  ]
+}
